@@ -3,6 +3,9 @@ Analysis of Craig Reynolds' steering behavior in Urban Settings
 
 Craig Reynolds' Steering behaviors (https://www.red3d.com/cwr/steer/)
 
-![2](https://user-images.githubusercontent.com/24549241/55010240-40221e80-4fba-11e9-8b16-b93281591580.gif)
+## Inception v2 (Google) person detection
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/24549241/55011002-9fccf980-4fbb-11e9-8e46-9a011dcb27d0.gif)
+
 
 
